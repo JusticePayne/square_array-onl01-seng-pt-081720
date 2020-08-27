@@ -3,7 +3,7 @@
 # returns a new array
 # use iterator .each
 
-
+require 'pry'
 
 
 def square_array(array)
