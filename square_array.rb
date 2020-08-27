@@ -1,3 +1,7 @@
+# define square array method
+# define variables to the numbers array
+# returns a new array
+# use iterator .each
 
 
 
