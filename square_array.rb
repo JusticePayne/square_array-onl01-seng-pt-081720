@@ -9,6 +9,6 @@ require 'pry'
 def square_array(array)
   numbers = [1,2,3]
   empty array = []
-  array.each do
+  array.each do |numbers|
   binding.pry
 end
