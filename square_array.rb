@@ -10,7 +10,7 @@ def square_array(array)
   numbers = [1,2,3]
   empty_array = []
   array.each do |numbers|
-  empty_array << numbers**2
+  empty_array << numbers ** 2
   end
   binding.pry
 end
