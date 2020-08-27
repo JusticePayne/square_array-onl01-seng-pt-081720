@@ -8,7 +8,7 @@ require 'pry'
 
 def square_array(array)
   numbers = [1,2,3]
-  empty array = []
+  empty_array = []
   array.each do |numbers|
   end
   binding.pry
